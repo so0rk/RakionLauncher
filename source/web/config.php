@@ -32,7 +32,7 @@ try {
 
 // Comprobar la conexión exitosa
 if (!$pdo) {
-    echo "[Error]: Auth OFF";
+    echo "[Error]: Auth ON";
     exit;
 }
 
